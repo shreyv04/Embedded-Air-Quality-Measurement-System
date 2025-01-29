@@ -1,4 +1,4 @@
-# This program is done by Shrey Rahulkumar Vyas [30460285]
+#Shrey Vyas
 
 #---- Import Libraries ----
 import RPi.GPIO as RPI  #<--- Library for GPIO Usage
