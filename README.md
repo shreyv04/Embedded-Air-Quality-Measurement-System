@@ -1,4 +1,3 @@
-# air-quality-index
 Data Analysis: Air Quality Index of a remote location
 
 # Embedded Air Quality Measurement System
