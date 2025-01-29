@@ -1,4 +1,4 @@
-# Shrey Rahulkumar Vyas [30460285]
+# Shrey Rahulkumar Vyas
 
 #---- Importing all necessary libraries ----
 import requests
