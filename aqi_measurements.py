@@ -1,4 +1,4 @@
-# Shrey Rahulkumar Vyas [30460285]
+# Shrey Rahulkumar Vyas
 
 #---- Fetching required data from getdata.py file ----
 from getdata import field_1, field_3
