@@ -1,6 +1,4 @@
-## **Data Analysis: Air Quality Index of a remote location**
-
-# Embedded Air Quality Measurement System
+# Data Analysis: Air Quality Index of a remote location
 
 ## Overview
 The **Embedded Air Quality Measurement System** is a Python-based project utilizing the **JoyPI Box** to measure, analyze, and visualize environmental parameters such as particulate matter (PM1.0, PM2.5, and PM10), temperature, and humidity. The system integrates real-time data collection from sensors, cloud-based data management via **ThingSpeak**, and an interactive user interface for seamless data visualization.
