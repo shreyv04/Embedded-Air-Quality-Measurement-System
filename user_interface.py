@@ -1,5 +1,4 @@
-# This program is jointly done by Shrey Vyas, Vandan Deria, and Dhyanam Pandya
-# Shrey Rahulkumar Vyas [30460285]
+# Shrey Rahulkumar Vyas
 
 #---- Importing all necessary libraries ----
 import RPi.GPIO as GPIO
